@@ -19,6 +19,6 @@
   <a href = "mailto:anacost.a@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ana-beatriz-costa-99a44717a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/anabecosta/anabecosta/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AnaBeCosta/AnaBeCosta-Perfil/blob/output/github-contribution-grid-snake.svg)
  
 </div>
